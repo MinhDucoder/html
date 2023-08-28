@@ -1,0 +1,11 @@
+.h2{
+    text-align: center;
+}
+html{
+    background-color: white;
+}
+.box{
+    border-top:ouline;
+    border-right:ouline;
+    border: outline;
+}

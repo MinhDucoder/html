@@ -1,0 +1,14 @@
+.h1{
+    color : rgb(0, 149, 255);
+}
+
+.img{
+    background-image: url();
+}
+.image{
+    display: flex;
+}
+.anh2{
+    border-bottom: 10px;
+    padding-bottom: 4px;
+}   
